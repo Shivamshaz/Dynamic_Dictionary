@@ -60,12 +60,7 @@ void first()
 	settextstyle(7,0,3);
 	setcolor(RED);
 	setcolor(10);
-	outtextxy(470,350,"Made By:");
-
-	setcolor(10);
-	outtextxy(260,370,"1.Anupam Kumar (9502903)");
-	outtextxy(260,390,"2.Monika Tanwar(9502936)");
-	outtextxy(260,410,"3.Shilpi Rai   (9502917)");
+	
 	setcolor(4);
 
 	for(k=0;k<640;k++)
